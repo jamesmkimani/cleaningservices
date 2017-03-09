@@ -1,0 +1,24 @@
+
+/****animation part**/
+/***head**/
+.head {
+    color: #337ab7;
+    font-family: Fredricka the Great,cursive;
+    font-size: 400%;
+}
+/***end head**/
+body {
+  background-repeat: no-repeat;
+  height: 650px;
+  padding-top: 100px;
+  font-family: 'Raleway', sans-serif;
+  background-size: cover;
+  color: black;
+}
+/***start subheadings***/
+.heading {
+  font-family:  verdana,  cursive;
+  color: #337ab7;
+}
+/***end subheadings***/
+/***end animation part***/
